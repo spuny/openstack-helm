@@ -1030,7 +1030,8 @@ backup:
   posix:
     volume:
       class_name: general
-      size: 10Gi
+      #size: 10Gi
+      size: 150Gi
 
 dependencies:
   dynamic:
